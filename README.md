@@ -21,6 +21,7 @@ https://exeter.netlify.app/
 
 React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled Components | Bootstrap | Snazzy Maps | Google Maps API
 
+<p align="right">[<a href="#top">back to top</a>]</p>
 
 # Contacts
 
@@ -71,6 +72,8 @@ email: zjhd201@exeter.ac.uk
 linkedIn: https://linkedin.com/in/zacharydive
 <br>
 github: https://github.com/zachdive
+
+<p align="right">[<a href="#top">back to top</a>]</p>
 
 <br>
 <br>
